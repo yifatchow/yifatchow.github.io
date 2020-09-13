@@ -2,6 +2,6 @@ theme: jekyll-theme-cayman
 
 gem "github-pages", group: :jekyll_plugins
 
-title:YIFAN ZHOU
+title: YIFAN ZHOU
 
 description: Welcome to my personal website
