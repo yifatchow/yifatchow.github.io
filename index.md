@@ -5,11 +5,3 @@
 [CV](https://github.com/yifatchow/yifatchow.github.io/blob/master/CV.pdf)
 
 [AWARDS AND FELLOWSHIPS](https://github.com/yifatchow/yifatchow.github.io/blob/master/AWARDS%20AND%20FELLOWSHIPS.pdf)
-
-杨杰森是个憨批
-
-杨杰森是个憨批
-
-杨杰森是个憨批
-
-杨杰森是个憨批
