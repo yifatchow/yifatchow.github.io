@@ -6,4 +6,4 @@
 
 [CV](https://github.com/yifatchow/yifatchow.github.io/blob/master/YIFAN%20ZHOU-CV.pdf)
 
-[AWARDS AND FELLOWSHIPS](https://github.com/yifatchow/yifatchow.github.io/blob/master/AWARDS%20AND%20FELLOWSHIPS-compressed.pdf)
+[AWARDS AND FELLOWSHIPS](https://github.com/yifatchow/yifatchow.github.io/blob/master/AWARDS%20AND%20FELLOWSHIPS.pdf)
