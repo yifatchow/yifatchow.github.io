@@ -4,7 +4,7 @@
 
 ### Overall GPA: 3.81/4.00, Professional GPA: 3.84/4.00, Rank: 4/49 (top 10%)
 
-[CV](https://github.com/yifatchow/yifatchow.github.io/blob/master/YIFAN%20ZHOU-CV.pdf)
+[CV](https://github.com/yifatchow/yifatchow.github.io/blob/master/CV.pdf)
 
 [OFFICIAL TRANSCRIPTS](https://github.com/yifatchow/yifatchow.github.io/blob/master/OFFICIAL%20TRANSCRIPTS.pdf)
 
