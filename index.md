@@ -1,5 +1,3 @@
-#### Quantitative Economics, Business School, Jilin University
-
 #### Overall GPA: 3.81/4.00, Overall Rank: 4/49 (top 10%)
 
 [CV](https://github.com/yifatchow/yifatchow.github.io/blob/master/CV.pdf)
@@ -11,3 +9,5 @@
 撒拉嘿呦
 
 哈哈哈哈，欢迎访问我的个人网站哦😯
+
+😘爱你哦
