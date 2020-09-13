@@ -6,6 +6,6 @@
 
 [CV](https://github.com/yifatchow/yifatchow.github.io/blob/master/YIFAN%20ZHOU-CV.pdf)
 
-[OFFICIAL TRANSCRIPTS](https://github.com/yifatchow/yifatchow.github.io/blob/master/official%20transcripts.pdf)
+[OFFICIAL TRANSCRIPTS](https://github.com/yifatchow/yifatchow.github.io/blob/master/OFFICIAL%20TRANSCRIPTS.pdf)
 
 [AWARDS AND FELLOWSHIPS](https://github.com/yifatchow/yifatchow.github.io/blob/master/AWARDS%20AND%20FELLOWSHIPS.pdf)
