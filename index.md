@@ -1,9 +1,8 @@
 # ZHOU YIFAN 
 
-## Quantitative Economics
-## Business School, Jilin University
+##### Quantitative Economics, Business School, Jilin University
 
-### Overall GPA: 3.81/4.00, Professional GPA: 3.84/4.00, Rank: 4/49 (top 10%)
+##### Overall GPA: 3.81/4.00, Professional GPA: 3.84/4.00, Rank: 4/49 (top 10%)
 
 [CV](https://github.com/yifatchow/yifatchow.github.io/blob/master/CV.pdf)
 
