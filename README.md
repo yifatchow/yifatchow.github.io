@@ -1,3 +1,3 @@
-# yifatchow.github.io
+# Yifat Chow
 
 ## Welcome to my personal website
