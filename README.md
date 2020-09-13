@@ -1,3 +1,3 @@
 # yifatchow.github.io
 
-## Welcome to my CV
+## Welcome to my personal website
