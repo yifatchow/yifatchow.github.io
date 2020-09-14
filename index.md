@@ -2,7 +2,8 @@
 
 ---
 
-Jilin University　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Sep. 2017 – July 2021
+Jilin University
+<p align="right">Sep. 2017 – July 2021</p>
 
 Bachelor in Economics (Quantitative Economics), Business School
 
@@ -12,6 +13,9 @@ Overall GPA: 3.81/4.00, Professional GPA: 3.84/4.00, Rank: 5/49 (top 10%)
 
 ---
 
+Summer Camp Certificate for Outstanding Students of University of Science and Technology of China
+
+National Excellent Project of College Students’ Innovation and Entrepreneurship Training Program
 
 
 [CV](https://github.com/yifatchow/yifatchow.github.io/blob/master/CV.pdf)
