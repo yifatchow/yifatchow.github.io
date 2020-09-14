@@ -2,8 +2,9 @@
 
 ---
 
-Jilin University
-<p align="right">Sep. 2017 – July 2021</p>
+| Jilin University | Sep. 2017 – July 2021 |
+| :---- | ----: |
+
 
 Bachelor in Economics (Quantitative Economics), Business School
 
