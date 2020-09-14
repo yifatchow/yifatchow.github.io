@@ -1,3 +1,11 @@
+### Education
+
+---
+
+Jilin University        Sep. 2017 – July 2021
+Bachelor in Economics (Quantitative Economics), Business School
+Overall GPA: 3.81/4.00, Professional GPA: 3.84/4.00, Rank: 5/49 (top 10%)
+
 #### Overall GPA: 3.81/4.00, Overall Rank: 4/49 (top 10%)
 
 [CV](https://github.com/yifatchow/yifatchow.github.io/blob/master/CV.pdf)
